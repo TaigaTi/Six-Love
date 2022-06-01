@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Audio\OneDrive\Desktop\COMP1205 Assignment 2\Six Love\Six Love\Source.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Six Love.vcxproj -> C:\Users\Audio\OneDrive\Desktop\COMP1205 Assignment 2\Six Love\Debug\Six Love.exe
